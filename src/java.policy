@@ -1,0 +1,4 @@
+grant {
+  // Tillater absolutt alt ... men slik kan det ikke være i en produksjons-versjon !!
+  permission java.security.AllPermission;
+};
